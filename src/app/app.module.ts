@@ -2,7 +2,7 @@ import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 
 import { AppComponent } from './app.component';
-import { HighlightDirective } from './directive/HighlightDirective';
+import { HighlightDirective } from './directive/highlight.directive';
 @NgModule({
   declarations: [AppComponent, HighlightDirective],
   imports: [BrowserModule],
