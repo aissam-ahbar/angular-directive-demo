@@ -1,5 +1,7 @@
 # Angular Directive Demo
 
+Add directive to style your HTML Template on the fly.
+
 ```
 ----------------------------------------------------------
 # highlight.directive.ts (set background to given color)
